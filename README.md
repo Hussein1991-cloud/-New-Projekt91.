@@ -1,7 +1,7 @@
 # -New-Projekt91.
 Builiding
 
-##summary
+"## Summary"
 
 The home digitization project is among the list of project ideas based on artificial intelligence. As this idea lies in making home appliances smarter and facilitating home management with a few clicks, and if you are passionate about emerging technologies and artificial intelligence, share this passion with others to earn more money, and what is remarkable about this project is that it does not require large capital to start, and everything it needs Is the necessary skill and experience and in-depth in the field of 
 emerging technologies.
